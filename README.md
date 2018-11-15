@@ -1,28 +1,26 @@
 # collect useful tools
 
-
-
 ### proxy
 
-https://github.com/shadowsocks 
-https://github.com/rofl0r/proxychains-ng 
-https://github.com/haad/proxychains 
+https://github.com/shadowsocks  
+https://github.com/rofl0r/proxychains-ng  
+https://github.com/haad/proxychains  
 http://www.proxifier.com/
 
 ### vscode plugin
-[Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) 
-[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) 
-[Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig) 
-[Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) 
-[PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) 
-[Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) 
-[NativeScript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript) 
-[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
-[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) 
-[Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) 
-[GBKtoUTF8](https://marketplace.visualstudio.com/items?itemName=bukas.GBKtoUTF8) 
-[EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) 
-[Chinese (Simplified) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) 
+[Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)  
+[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)  
+[Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)  
+[Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)  
+[PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)  
+[Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)  
+[NativeScript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)  
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)  
+[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)  
+[Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)  
+[GBKtoUTF8](https://marketplace.visualstudio.com/items?itemName=bukas.GBKtoUTF8)  
+[EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)  
+[Chinese (Simplified) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)  
 
 wingen-pc-vscode-settings.json
 ```
@@ -94,12 +92,12 @@ wingen-pc-vscode-settings.json
 
 
 ### chrome extension
-[LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) 
-[Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp) 
-[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) 
-[达达划词翻译](https://chrome.google.com/webstore/detail/%E8%BE%BE%E8%BE%BE%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cajhcjfcodjoalmhjekljnfkgjlkeajl) 
-[Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) 
-[Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
-[Planyway ：Trello日程管理日历](https://chrome.google.com/webstore/detail/planyway-calendar-and-tim/kkgaechmpjgbojahkofamdjkaklgbdkc) 
-[New Tab Todo List: Checklist, Notes, Outliner](https://chrome.google.com/webstore/detail/new-tab-todo-list-checkli/hdkbnhcgfcokjhlfiicbphafdnipnhjf)
+[LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)  
+[Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp)  
+[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)  
+[达达划词翻译](https://chrome.google.com/webstore/detail/%E8%BE%BE%E8%BE%BE%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cajhcjfcodjoalmhjekljnfkgjlkeajl)  
+[Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)  
+[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)  
+[Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  
+[Planyway ：Trello日程管理日历](https://chrome.google.com/webstore/detail/planyway-calendar-and-tim/kkgaechmpjgbojahkofamdjkaklgbdkc)  
+[New Tab Todo List: Checklist, Notes, Outliner](https://chrome.google.com/webstore/detail/new-tab-todo-list-checkli/hdkbnhcgfcokjhlfiicbphafdnipnhjf) 
