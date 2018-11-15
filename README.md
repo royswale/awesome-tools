@@ -21,6 +21,10 @@ http://www.proxifier.com/
 [GBKtoUTF8](https://marketplace.visualstudio.com/items?itemName=bukas.GBKtoUTF8)  
 [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)  
 [Chinese (Simplified) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)  
+https://github.com/ritwickdey/vscode-live-server  
+https://github.com/Microsoft/vscode-tslint  
+https://github.com/OmniSharp/omnisharp-vscode  
+https://github.com/Microsoft/vscode-eslint  
 
 wingen-pc-vscode-settings.json
 ```
@@ -90,6 +94,44 @@ wingen-pc-vscode-settings.json
 }
 ```
 
+
+### intellij platform
+
+https://github.com/JetBrains/ideavim  
+https://github.com/Vektah/CodeGlance  
+
+### sublime
+
+https://packagecontrol.io/  
+https://packagecontrol.io/packages/EditorConfig  
+https://packagecontrol.io/packages/Materialize  
+
+wingen-sublime-Preferences.sublime-settings--User
+
+```
+{
+	"color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
+	"font_face": "Fira Code",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material Brogrammer.sublime-theme"
+}
+```
+
+### font
+
+https://github.com/tonsky/FiraCode  
+https://www.fonts.com/font/microsoft-corporation/consolas  
+https://github.com/madmalik/mononoki  
+https://github.com/adobe-fonts/source-code-pro  
+https://fonts.google.com/specimen/Source+Code+Pro  
+
+### icon
+
+http://www.iconfont.cn/  
 
 ### chrome extension
 [LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)  
