@@ -25,6 +25,8 @@ https://github.com/ritwickdey/vscode-live-server
 https://github.com/Microsoft/vscode-tslint  
 https://github.com/OmniSharp/omnisharp-vscode  
 https://github.com/Microsoft/vscode-eslint  
+https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools
+https://github.com/felixfbecker/vscode-php-debug
 
 wingen-pc-vscode-settings.json
 ```
